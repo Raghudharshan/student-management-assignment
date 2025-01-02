@@ -1,7 +1,7 @@
 # Student Management Application
 
 ## Overview
-The **Student Management Application** is a web-based tool for managing student records. Users can add, view, update, and delete student information. The application consists of a React frontend and a Node.js backend.
+The **Student Management Application** is a web-based tool for managing student records. Users can add, view, update, and delete student information. The application consists of a **React** frontend and a **Node.js** backend.
 
 ## Pre-requisites
 Download and Install MonogoDB Database, Node.Js.
