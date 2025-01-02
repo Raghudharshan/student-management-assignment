@@ -1,0 +1,38 @@
+.student-form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #fff;
+    width: 100%;
+    margin-top: 40px;
+  }
+  
+  .form-input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+
+  .label-input{
+    text-align: left;
+    font-size: 12px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    width: 190px;
+  }
+
+  .form-button-add {
+    padding: 8px 12px;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    height: 40px;
+  }
+  
